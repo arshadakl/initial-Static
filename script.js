@@ -5,7 +5,7 @@ $("#submit-form").submit((e)=>{
         data:$("#submit-form").serialize(),
         method:"post",
         success:function (response){
-            alert("Thank you for Messaging..")
+            alert("Thank you..")
             window.location.reload()
             //window.location.href=""
         },
