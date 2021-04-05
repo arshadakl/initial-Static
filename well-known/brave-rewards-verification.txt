@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: arshadakl.in
+Token: f0d31cfce3138ad343639c07176bea44a3974f88ea5b6b4eed5ba022a73a47bb
